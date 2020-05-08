@@ -1,0 +1,38 @@
+.header {
+  height: 100px;
+  background-color: #d33a2c;
+}
+
+.header .logo {
+  width: 20%;
+  display: inline-block;
+  line-height: 100px;
+}
+
+.header .logo img {
+  height: 70px;
+  vertical-align: text-top;
+}
+
+.header nav {
+  display: inline-block;
+  width: 60%;
+  text-align: right;
+}
+
+.header nav ul li {
+  display: inline-block;
+  line-height: 100px;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
