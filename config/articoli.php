@@ -29,7 +29,7 @@
             'data' => "07/05/2020"
         ],
         [
-            'avatar' => "",
+            'avatar' => "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aefe2512-1b16-49a5-8ca4-e6afc5364105/jerry-navi-200x200.jpg",
             'nomeAutore' => "Tommaso",
             'titolo' => "Prova",
             'descrizione' => "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",

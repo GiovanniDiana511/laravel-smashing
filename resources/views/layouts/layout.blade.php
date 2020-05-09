@@ -1,8 +1,3 @@
-@php
-    $arrayArticoli = config('articoli');
-    dd($arrayArticoli);
-@endphp
-
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
